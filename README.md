@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Fabio Romero! 🚀  
 
-<!--
-**FabioRg06/FabioRg06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Junior Developer** | 🎓 **Systems Engineering Student**  
+🧠 Passionate about **science, technology, and continuous learning**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Tech Stack:  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+
+
+> **"Technology moves fast, but curiosity is what keeps us ahead."**  
+
+
+📫 **Let's connect!**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-de-jes%C3%BAs-romero-g%C3%B3mez-ab5745309/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FabioRg06)  
