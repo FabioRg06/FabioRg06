@@ -3,9 +3,10 @@
 <!-- ===================== -->
 <p align="center">
   <img 
-    src="https://PLACEHOLDER-HEADER-IMAGE.png" 
-    alt="Fabio Romero - High Performance Software Developer"
+    src="./assets/header.png" 
+    alt="Fabio Romero - Software Developer"
     width="100%"
+    height="60%"
   />
 </p>
 
